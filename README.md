@@ -4,4 +4,4 @@ This repository contains materials for the Computational Geometry course at the 
 
 ## [Notes from tutorials](notes)
 
-* Online tutorials from [2020/21](notes/2020-21)
+* Online tutorials from [2021](notes/2021)
