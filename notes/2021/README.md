@@ -9,3 +9,4 @@
 * [`2021-04-14.md`](2021-04-14.md) - convexity
 * [`2021-04-21.md`](2021-04-21.md) - convexity
 * [`2021-04-28.md`](2021-04-28.md) - DCEL, arrangements
+* [`2021-05-05.md`](2021-05-05.md) - duality, Voronoi diagrams
