@@ -11,3 +11,4 @@
 * [`2021-04-28.md`](2021-04-28.md) - DCEL, arrangements
 * [`2021-05-05.md`](2021-05-05.md) - duality
 * [`2021-05-12.md`](2021-05-12.md) - Voronoi diagrams
+* [`2021-05-19.md`](2021-05-19.md) - Delaunay triangulation
